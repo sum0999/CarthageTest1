@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 set -ex
-rm Cartfile
-rm Cartfile.resolved
+echo '' > Cartfile
+echo '' > Cartfile.resolved
