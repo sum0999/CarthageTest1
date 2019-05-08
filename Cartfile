@@ -4,7 +4,7 @@ github "AssistoLab/DropDown" == 2.3.12
 github "evgenyneu/keychain-swift" == 13.0.0
 #github "Moya/Moya" == 13.0.0-beta.1
 #github "Moya/Moya" == 13.0.0
-#github "Moya/Moya" == 13.0.1
+github "Moya/Moya" == 13.0.1
 github "AzureAD/microsoft-authentication-library-for-objc" == 0.2.0
 github "pkluz/PKHUD" == 5.2.0
 github "SnapKit/SnapKit" == 4.2.0
