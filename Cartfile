@@ -1,2 +1,17 @@
-github "Alamofire/Alamofire" == 4.5
-github "Alamofire/AlamofireImage" ~> 3.2
+# To (re)build frameworks in the Terminal type: carthage update --platform iOS --no-use-binaries
+
+github "AssistoLab/DropDown" == 2.3.12
+github "evgenyneu/keychain-swift" == 13.0.0
+github "Moya/Moya" == 13.0.0-beta.1
+github "AzureAD/microsoft-authentication-library-for-objc" == 0.2.0
+github "pkluz/PKHUD" == 5.2.0
+github "SnapKit/SnapKit" == 4.2.0
+github "SwiftyJSON/SwiftyJSON" == 4.2.0
+github "efremidze/Cluster" == 2.4.4
+github "kciter/Floaty" == 4.2.0
+
+# Firebase, Crashlytics & Fabric support
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseAnalyticsBinary.json"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseCrashBinary.json"
+binary "https://building42.github.io/Specs/Carthage/iOS/Fabric.json" #1.9.0
+binary "https://building42.github.io/Specs/Carthage/iOS/Crashlytics.json" #3.12.0
