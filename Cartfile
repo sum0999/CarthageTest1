@@ -1,4 +1,4 @@
 github "ashleymills/Reachability.swift"
-#github "kishikawakatsumi/KeychainAccess"
+github "kishikawakatsumi/KeychainAccess"
 github "ishkawa/APIKit" ~> 3.1
-#github "kean/Nuke" ~> 7.0
+github "kean/Nuke" ~> 7.0
